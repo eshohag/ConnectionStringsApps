@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalConnectionStringsApps", "ExternalConnectionStringsApps\ExternalConnectionStringsApps.csproj", "{E5475640-38B9-441A-8C26-EDCE27C2A9AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalConnectionStringApps", "NormalConnectionStringApps\NormalConnectionStringApps.csproj", "{DD4C8BC5-7BB0-4FDC-9466-D4866D1E0B2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5475640-38B9-441A-8C26-EDCE27C2A9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5475640-38B9-441A-8C26-EDCE27C2A9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5475640-38B9-441A-8C26-EDCE27C2A9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4C8BC5-7BB0-4FDC-9466-D4866D1E0B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4C8BC5-7BB0-4FDC-9466-D4866D1E0B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4C8BC5-7BB0-4FDC-9466-D4866D1E0B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4C8BC5-7BB0-4FDC-9466-D4866D1E0B2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
